@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ズッコケ男道 - From THE FIRST TAKE",
+  "base_artist": "SUPER EIGHT",
+  "createdAt": "2026-03-11T14:38:23.392751Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ズッコケ男道",
+      "artist": "関ジャニ∞",
+      "has_synced": true,
+      "path": "select/01_ズッコケ男道_関ジャニ∞.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ズッコケ男道 - From THE FIRST TAKE",
+      "artist": "Super Eight",
+      "has_synced": false,
+      "path": "select/02_ズッコケ男道_-_From_THE_FIRST_TAKE_Super_Eight.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ズッコケ男道",
+      "artist": "SUPER EIGHT",
+      "has_synced": false,
+      "path": "select/pl_01_ズッコケ男道_SUPER_EIGHT.txt"
+    }
+  ]
+}
